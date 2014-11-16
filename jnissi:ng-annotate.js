@@ -5,7 +5,6 @@ var ngAnnotateHandler = function ngAnnotateHandler(compileStep) {
 		add: true,
 		es6: true
 	});
-	console.dir(res);
 
 	compileStep.addJavaScript({
 		path: compileStep.inputPath + '.js',
