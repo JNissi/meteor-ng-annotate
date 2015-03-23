@@ -1,3 +1,8 @@
+DEPRECATED
+==========
+
+Please note, https://github.com/Urigo/angular-meteor now supports running ng-annotate on .ng.js-files (https://github.com/Urigo/angular-meteor/pull/244) so I will be dropping this package as soon as that one goes live.
+
 meteor-ng-annotate
 ==================
 
